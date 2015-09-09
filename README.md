@@ -10,3 +10,6 @@ https://github.com/angular-ui/angular-google-maps
 
 ### angular ui/bootstrap
 https://github.com/angular-ui/bootstrap
+
+### angular ui/ui-router
+https://github.com/angular-ui/ui-router
