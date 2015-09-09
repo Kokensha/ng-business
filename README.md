@@ -5,10 +5,10 @@ in progress
 use at your own risk.
 pull requests are welcome. 
 
-### angular ui/angular google maps
+### angular-ui/angular-google-maps
 https://github.com/angular-ui/angular-google-maps
 
-### angular ui/bootstrap
+### angular-ui/bootstrap
 https://github.com/angular-ui/bootstrap
 
 ### angular ui/ui-router
