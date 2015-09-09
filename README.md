@@ -5,6 +5,7 @@ in progress
 use at your own risk.
 pull requests are welcome. 
 
+## angular-XXX
 ### angular-ui/angular-google-maps
 https://github.com/angular-ui/angular-google-maps
 
@@ -13,3 +14,12 @@ https://github.com/angular-ui/bootstrap
 
 ### angular ui/ui-router
 https://github.com/angular-ui/ui-router
+
+### angular-loading-bar
+https://github.com/chieffancypants/angular-loading-bar
+
+## XXX
+### ngImgCrop
+https://github.com/alexk111/ngImgCrop
+
+
