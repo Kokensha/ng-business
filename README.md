@@ -5,5 +5,8 @@ in progress
 use at your own risk.
 pull requests are welcome. 
 
-### angular google maps
+### angular ui/angular google maps
 https://github.com/angular-ui/angular-google-maps
+
+#### angular ui/bootstrap
+https://github.com/angular-ui/bootstrap
