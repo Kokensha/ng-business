@@ -12,11 +12,14 @@ https://github.com/angular-ui/angular-google-maps
 ### angular-ui/bootstrap
 https://github.com/angular-ui/bootstrap
 
-### angular ui/ui-router
+### angular-ui/ui-router
 https://github.com/angular-ui/ui-router
 
 ### angular-loading-bar
 https://github.com/chieffancypants/angular-loading-bar
+
+### angular-pdf-viewer
+https://github.com/winkerVSbecks/angular-pdf-viewer
 
 ## XXX
 ### ngImgCrop
