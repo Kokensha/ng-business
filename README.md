@@ -26,6 +26,6 @@ https://github.com/winkerVSbecks/angular-pdf-viewer
 https://github.com/alexk111/ngImgCrop
 
 Actively maintained
-[https://github.com/CrackerakiUA/ngImgCropFullExtended/network](https://github.com/CrackerakiUA/ngImgCropFullExtended/network)
+[https://github.com/CrackerakiUA/ngImgCropFullExtended](https://github.com/CrackerakiUA/ngImgCropFullExtended)
 
 
